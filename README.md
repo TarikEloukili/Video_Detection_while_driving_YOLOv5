@@ -12,10 +12,10 @@ This project uses the YOLOv5 object detection model to detect **cars** in real-t
 ---
 
 ## Input Video frame: 
-![Car Detection Input](images/input.jpg)
+![Car Detection Input](images/input.png)
 
 ## Output Video frame: 
-![Car Detection Output](images/output.jpg)
+![Car Detection Output](images/output.png)
 
 
 
